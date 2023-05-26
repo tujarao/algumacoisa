@@ -1,0 +1,10 @@
+.imagem{
+width:400px;
+height: 400px;
+
+}
+
+.geral{
+display: grid;
+grid-template-columns: 33% 33% 33%;
+}
